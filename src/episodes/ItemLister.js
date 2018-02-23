@@ -47,15 +47,14 @@ class EpisodesItemLister extends React.Component {
                         this.state.seriesList.filter(item => item.seriesName.toLowerCase().indexOf(this.state.seriesName.toLowerCase()) !== -1)
                             .map(item => (
                                     <li key={item.id}>
-                                        {this.state.seriesList.filter(b => b.id === item.id)
-                                            .map(matchingEpisode => matchingEpisode.banner
-                                                .filter(a => a.subkey === 'graphical')
-                                                .filter(getEpisodeName => getEpisodeName.filename)
-
-                                                .map(matchingSerieEpisodesLists => <img key={matchingSerieEpisodesLists.id} src={`https://www.thetvdb.com/banners/_cache/${matchingSerieEpisodesLists.filename}`}></img> )
-                                            )
+                                        { item.banner.length  ? <p><img key={item.id} src={'https://www.thetvdb.com/banners/_cache/' + item.banner[0].filename}/></p>
+                                            : <p>T</p>
                                         }
-                                        {item.seriesName}
+
+                                        <p>{item.seriesName}</p>
+                                        { item.titrefr.filter(a => a.languageid === 17)  ? item.titrefr.filter(a => a.languageid === '17').map( b => <p>{b.translation}</p>)
+                                            : <p>T</p>
+                                        }
                                         <ol>
                                             {this.state.seriesList.filter(b => b.id === item.id)
                                                 .map(matchingEpisode => matchingEpisode.episodes

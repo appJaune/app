@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e9e20fb-4903-4ed2-af7f-034e49307b4c" name="Default" comment="" />
+    <list default="true" id="6e9e20fb-4903-4ed2-af7f-034e49307b4c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/episodes/ItemLister.js" afterPath="$PROJECT_DIR$/src/episodes/ItemLister.js" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +57,8 @@
       <file leaf-file-name="ItemLister.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/episodes/ItemLister.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="54" column="169" lean-forward="false" selection-start-line="54" selection-start-column="169" selection-end-line="54" selection-end-column="169" />
+            <state relative-caret-position="161">
+              <caret line="55" column="54" lean-forward="true" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -186,28 +189,28 @@
         <subPane>
           <expand>
             <path>
-              <item name="RouterPoppan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RouterPoppan" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app-master" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="RouterPoppan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RouterPoppan" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app-master" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="RouterPoppan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RouterPoppan" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app-master" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="RouterPoppan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RouterPoppan" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app-master" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="episodes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="RouterPoppan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RouterPoppan" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app-master" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="series" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
@@ -269,12 +272,12 @@
       <updated>1519288790229</updated>
       <workItem from="1519288791580" duration="2776000" />
       <workItem from="1519306746378" duration="23438000" />
-      <workItem from="1519400490732" duration="3320000" />
+      <workItem from="1519400490732" duration="9308000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29534000" />
+    <option name="totallyTimeSpent" value="35522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -496,8 +499,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/episodes/ItemLister.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="54" column="169" lean-forward="false" selection-start-line="54" selection-start-column="169" selection-end-line="54" selection-end-column="169" />
+        <state relative-caret-position="161">
+          <caret line="55" column="54" lean-forward="true" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
           <folding />
         </state>
       </provider>
